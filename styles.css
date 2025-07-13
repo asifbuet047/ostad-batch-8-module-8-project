@@ -23,6 +23,11 @@ header {
 
 /* Others css properties for more visual improvement not required as per project */
 
+.header {
+  position: sticky;
+  top: 0;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
